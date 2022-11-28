@@ -1,0 +1,4 @@
+menü rendszer
+logo beépítése
+külső CSS
+bootstrap keretrendszer
