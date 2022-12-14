@@ -1,0 +1,24 @@
+Az elmúlt 20-30 évben a felgyorsult technikai és technológiai fejlődés számos
+területen érzékelteti hatását.
+A folyamatos fejlődés során újabb és újabb eszközök válnak életünk részéve. Az egyik
+ilyen a robotok alkalmazása.
+Nehéz egyetlen fogalommal meghatározni a robotokat. Milyen eszközök is ezek
+valójában? Amit mindenképpen leszögezhetünk, hogy olyan, ember által tervezett eszközök,
+amelyek az emberek szellemi munkájához hasonló tevékenységet végeznek, illetve képesek
+emberszerű mozgások végrehajtására. Több szabadsági fokkal rendelkeznek, tevékenységüket
+pedig képesek bizonyos mértékig önállóan irányítani.
+Maga a téma igen hosszú múltra tekint vissza, hiszen évszázadok óta sokak
+foglalkoztak valamilyen automaták, robotok megalkotásával. A törekvések számos figyelemre
+méltó szerkezetet eredményeztek, de a tényleges áttörést csak a 20. század hozta meg. Az első
+programozható és digitálisan működtetett robot az Unimate volt (1961) mely nem volt más,
+mint egy robotkar.
+Mára már a technika ugrásszerű fejlődésének köszönhetően széles körben használják
+a robotokat szinte minden olyan munkaterületen, ahol a megbízhatóság és az igen nagy
+pontosság kiemelkedő fontosságú. A robotok meghatározó kellékei az űrkutatásnak és az ipari
+termelésnek, fokozatosan teret hódítanak az oktatásban és háztartásokban és egyre többet
+alkalmazzák őket a harcászatban, gyógyászatban is.
+Napjainkban a robotok alkalmazásában és
+fejlesztésében Ázsia magasan kiemelkedik a többi kontinens közül. Ázsián belül is Japán az,
+ahol a legtöbb robotot alkalmazzák.
+
+forrás:https://core.ac.uk/download/pdf/160920537.pdf
