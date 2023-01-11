@@ -1,0 +1,5 @@
+1.: Foglalkozott-e már robotikával?
+2.: Ha igen, akkor mit tervezett? Ha nem, akkor érdeklődik-e a robotika iránt?
+3.: Hogyan tudná elképzelni a tervünket?
+4.: Van olyan ismerőse aki robotikával foglalkozik?
+5.: Mi a véleménye az egyre több helyen alkalmazott robotokról, Hogy a világon a munkaerőt felváltják a robotok? 
